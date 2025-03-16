@@ -1,0 +1,5 @@
+.venv
+file.ipynb
+.requirtment
+.mlruns
+.mlartifacts
