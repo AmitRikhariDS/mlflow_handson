@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/319309009622536171/804ea4f48b8044a080c4f9443ba5ae69/artifacts
+deleted_time: 1742027222208
+end_time: 1742026461478
+entry_point_name: ''
+experiment_id: '319309009622536171'
+lifecycle_stage: deleted
+run_id: 804ea4f48b8044a080c4f9443ba5ae69
+run_name: charming-snail-229
+run_uuid: 804ea4f48b8044a080c4f9443ba5ae69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742026461404
+status: 4
+tags: []
+user_id: Test

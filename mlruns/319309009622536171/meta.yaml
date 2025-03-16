@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/319309009622536171
+creation_time: 1742026451537
+experiment_id: '319309009622536171'
+last_update_time: 1742029320199
+lifecycle_stage: active
+name: Linear_regression_iris_dataset
+tags: {}

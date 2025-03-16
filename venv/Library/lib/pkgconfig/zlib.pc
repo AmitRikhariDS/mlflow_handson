@@ -1,0 +1,13 @@
+prefix=d:/Mlops_Udemy/mlflow/venv/Library
+exec_prefix=d:/Mlops_Udemy/mlflow/venv/Library
+libdir=d:/Mlops_Udemy/mlflow/venv/Library/lib
+sharedlibdir=d:/Mlops_Udemy/mlflow/venv/Library/lib
+includedir=d:/Mlops_Udemy/mlflow/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

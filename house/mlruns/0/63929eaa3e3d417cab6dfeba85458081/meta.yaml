@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/63929eaa3e3d417cab6dfeba85458081/artifacts
+end_time: 1742126451382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63929eaa3e3d417cab6dfeba85458081
+run_name: delightful-fowl-506
+run_uuid: 63929eaa3e3d417cab6dfeba85458081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742125627818
+status: 3
+tags: []
+user_id: Test

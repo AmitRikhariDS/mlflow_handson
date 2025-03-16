@@ -1,0 +1,12 @@
+prefix=d:/Mlops_Udemy/mlflow/venv/Library
+exec_prefix=d:/Mlops_Udemy/mlflow/venv/Library
+libdir=d:/Mlops_Udemy/mlflow/venv/Library/lib
+includedir=d:/Mlops_Udemy/mlflow/venv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 

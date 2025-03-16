@@ -1,0 +1,6 @@
+artifact_location: file:///d:/Mlops_Udemy/mlflow/iris/Spam/mlruns/785073813897507252
+creation_time: 1742128135955
+experiment_id: '785073813897507252'
+last_update_time: 1742128135955
+lifecycle_stage: active
+name: Spam classifier NB
